@@ -1,16 +1,21 @@
-# bidding_app
+# Bidder - The bidding app
 
-A new Flutter project.
+A flutter based app to initiate and participate in silent auctions to easily sell off collectibles, antiques, etc.
 
-## Getting Started
+## Feautures
 
-This project is a starting point for a Flutter application.
+* Adding Products and Initiating Auctions
+* Quick Sell Price
+* Silent Bidding
+* Resell
+* Favourite's Notification
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots (Android)
+<img src="assets/screenshots/s1.png" height=400em> <img src="assets/screenshots/s2.png" height=400em>
+<img src="assets/screenshots/s3.png" height=400em> <img src="assets/screenshots/s4.png" height=400em>
+<img src="assets/screenshots/s5.png" height=400em> <img src="assets/screenshots/s6.png" height=400em>
+<img src="assets/screenshots/s7.png" height=400em> <img src="assets/screenshots/s8.png" height=400em>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## To run this app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the app with <b>flutter run --no-sound-null-safety</b>
